@@ -8,5 +8,5 @@
       "id": 2,
       "title": "Sam",
       "des": "black",
-    },
+    }
   ];
